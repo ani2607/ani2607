@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ani2607
-- 👀 I’m interested in tech field especially web development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on various frontend related projects.
+- 👋 Hi, I’m Aniket Sharma
+- 👀 I’m interested in tech field especially Web Development
+- 🌱 I’m currently learning Backend Web Devlopment
+- 💞️ I’m always ready to work on the frontend projects with the updated tech like Tailwind CSS and React JS.
 
 
 <!---
